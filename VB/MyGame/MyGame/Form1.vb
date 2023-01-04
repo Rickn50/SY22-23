@@ -1,4 +1,6 @@
-﻿Public Class Form1
+﻿Imports System.Runtime.CompilerServices
+
+Public Class Form1
     Const Speed As Integer = 10
     Dim direction As Point
 
@@ -52,8 +54,8 @@
                 direction = New Point(Speed, 0)
                 moveto(Player, Speed, 0)
             Case Keys.Space
-                'Add a bullet in the direction the player is facing
-                AddAt(BulletPictureBox2, Player.Location, direction)
+                'Add a ball in the direction the player is facing
+                AddAt(BulletPictureBox2, New Point(60, 60), New Point(5, 5), "BALL")
         End Select
     End Sub
 
@@ -61,7 +63,14 @@
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
         '   AddAt(BulletPictureBox2, New Point(0, 0), "CHASE")
         'AddAt(BulletPictureBox2, New Point(10, 5), "FOLLOW")
-        AddAt(BulletPictureBox2, New Point(5, 15), "RANDOM")
+        'AddAt(BulletPictureBox2, New Point(5, 15), "RANDOM")
+        Dim path(3) As Point
+        path(0) = New Point(15, 5)
+        path(1) = New Point(10, 5)
+        path(2) = New Point(-15, -5)
+        path(3) = New Point(-10, -5)
+        AddAt(BulletPictureBox2, New Point(20, 20), path)
+
     End Sub
 
 
