@@ -1,0 +1,10 @@
+RUSSIA|MOSCOW|143.4 MILLION|6.602 MILLION|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_Russia.svg.png
+UKRAINE|KYIV|43.79 million|233,090|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_Ukraine.png
+FRANCE|PARIS|67.75 MILLION|212,004|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_France.png
+CHINA|BEIJING|1.412 BILLION|3.705 MILLION|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_China.png
+MEXICO|MEXICO CITY|126.7 MILLION|1,972,550 square kilometers|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_Mexico.png
+CANADA|OTTAWA|38.25 MILLION|3.855 MILLION|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_Canada.png
+GERMANY|BERLIN|83.2 MILLION|138,065|C:\Users\rmmen232\Pictures\FLAGS\2560px-Flag_of_Germany.svg.png
+ENGLAND|LONDON|55.98 MILLION|94,058|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_England.svg.png
+SOUTH AFRICA|PRETORIA|59.39 MILLION|470,900|C:\Users\rmmen232\Pictures\FLAGS\images.png
+SWEDEN|STOCKHOLM|10.42 MILLION|204,035|C:\Users\rmmen232\Pictures\FLAGS\Flag_of_Sweden.svg.png

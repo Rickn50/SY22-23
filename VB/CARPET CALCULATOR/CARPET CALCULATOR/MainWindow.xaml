@@ -1,0 +1,32 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CARPET_CALCULATOR"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="LengthTextBox" HorizontalAlignment="Left" Margin="132,61,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="LENGTH" HorizontalAlignment="Left" Margin="74,57,0,0" VerticalAlignment="Top"/>
+        <Label Content="WIDTH" HorizontalAlignment="Left" Margin="312,57,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="WidthTextBox" HorizontalAlignment="Left" Margin="359,61,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="CalculateButton" Content="CALCULATE" HorizontalAlignment="Left" Margin="537,188,0,0" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="CarpetTextBox" HorizontalAlignment="Left" Margin="590,61,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="CARPET COST" HorizontalAlignment="Left" Margin="501,57,0,0" VerticalAlignment="Top"/>
+        <Label Content="FINAL COST" HorizontalAlignment="Left" Margin="264,170,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="FinalCost" Content="0" HorizontalAlignment="Left" Margin="343,170,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ClearButton" Content="CLEAR" HorizontalAlignment="Left" Margin="695,226,0,0" VerticalAlignment="Top" Width="80"/>
+        <Button x:Name="ExitButton" Content="EXIT" HorizontalAlignment="Left" Margin="21,18,0,0" VerticalAlignment="Top" Width="45"/>
+        <ComboBox x:Name="OtherCarpets" HorizontalAlignment="Left" Margin="590,17,0,0" VerticalAlignment="Top" Width="120" Text="OtherCarpets">
+            <ComboBoxItem Content="New York Style Chandler"/>
+            <ComboBoxItem Content="Home Decor Style"/>
+            <ComboBoxItem Content="Abstract Gray"/>
+        </ComboBox>
+        <Label x:Name="OtherCarpets1" Content="OTHER CARPET CHOICES" HorizontalAlignment="Left" Margin="442,15,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="LengthSlider" HorizontalAlignment="Left" Margin="132,98,0,0" VerticalAlignment="Top" Width="120" ValueChanged="LengthSlider_ValueChanged" Maximum="20"/>
+        <Slider x:Name="WidthSlider" HorizontalAlignment="Left" Margin="351,98,0,0" VerticalAlignment="Top" Width="120" ValueChanged="WidthSlider_ValueChanged" Maximum="20"/>
+        <Slider x:Name="CarpetCostSlider" HorizontalAlignment="Left" Margin="577,98,0,0" VerticalAlignment="Top" Width="120" ValueChanged="CarpetCostSlider_ValueChanged" Maximum="1000"/>
+
+    </Grid>
+</Window>

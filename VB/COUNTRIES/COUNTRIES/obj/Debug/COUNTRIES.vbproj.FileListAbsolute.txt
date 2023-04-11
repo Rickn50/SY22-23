@@ -1,0 +1,13 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\bin\Debug\COUNTRIES.exe.config
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\bin\Debug\COUNTRIES.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\bin\Debug\COUNTRIES.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\bin\Debug\COUNTRIES.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.Form1.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.Resources.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.vbproj.GenerateResource.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\COUNTRIES\COUNTRIES\obj\Debug\COUNTRIES.pdb

@@ -1,0 +1,21 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\bin\Debug\net6.0-windows\COLOR MIXER.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\bin\Debug\net6.0-windows\COLOR MIXER.deps.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\bin\Debug\net6.0-windows\COLOR MIXER.runtimeconfig.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\bin\Debug\net6.0-windows\COLOR MIXER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\bin\Debug\net6.0-windows\COLOR MIXER.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER_MarkupCompile.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER_MarkupCompile.lref
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.g.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.AssemblyInfoInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.AssemblyInfo.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\refint\COLOR MIXER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\COLOR MIXER.genruntimeconfig.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLOR MIXER\COLOR MIXER\obj\Debug\net6.0-windows\ref\COLOR MIXER.dll

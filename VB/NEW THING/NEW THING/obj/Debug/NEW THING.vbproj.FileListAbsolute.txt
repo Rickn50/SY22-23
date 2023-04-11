@@ -1,0 +1,13 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\bin\Debug\NEW THING.exe.config
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\bin\Debug\NEW THING.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\bin\Debug\NEW THING.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\bin\Debug\NEW THING.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW_THING.Form1.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW_THING.Resources.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.vbproj.GenerateResource.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\NEW THING\NEW THING\obj\Debug\NEW THING.pdb

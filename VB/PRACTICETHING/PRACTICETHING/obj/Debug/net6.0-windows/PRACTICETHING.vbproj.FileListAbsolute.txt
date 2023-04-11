@@ -1,0 +1,17 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\bin\Debug\net6.0-windows\PRACTICETHING.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\bin\Debug\net6.0-windows\PRACTICETHING.deps.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\bin\Debug\net6.0-windows\PRACTICETHING.runtimeconfig.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\bin\Debug\net6.0-windows\PRACTICETHING.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\bin\Debug\net6.0-windows\PRACTICETHING.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.Form1.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.vbproj.GenerateResource.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.AssemblyInfoInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.AssemblyInfo.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\refint\PRACTICETHING.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\PRACTICETHING.genruntimeconfig.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\PRACTICETHING\PRACTICETHING\obj\Debug\net6.0-windows\ref\PRACTICETHING.dll

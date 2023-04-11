@@ -1,0 +1,21 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\bin\Debug\net6.0-windows\CURRENCY CONVERTER.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\bin\Debug\net6.0-windows\CURRENCY CONVERTER.deps.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\bin\Debug\net6.0-windows\CURRENCY CONVERTER.runtimeconfig.json
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\bin\Debug\net6.0-windows\CURRENCY CONVERTER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\bin\Debug\net6.0-windows\CURRENCY CONVERTER.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER_MarkupCompile.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.g.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.AssemblyInfoInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.AssemblyInfo.vb
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\refint\CURRENCY CONVERTER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER.genruntimeconfig.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\ref\CURRENCY CONVERTER.dll
+C:\Users\rmmen232\Desktop\SY22-23\VB\CURRENCY CONVERTER\CURRENCY CONVERTER\obj\Debug\net6.0-windows\CURRENCY CONVERTER_MarkupCompile.lref

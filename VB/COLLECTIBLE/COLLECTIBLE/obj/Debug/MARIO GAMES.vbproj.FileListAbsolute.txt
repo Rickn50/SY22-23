@@ -1,0 +1,13 @@
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\bin\Debug\COLLECTIBLE.exe.config
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\bin\Debug\COLLECTIBLE.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\bin\Debug\COLLECTIBLE.pdb
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\bin\Debug\COLLECTIBLE.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\MARIO GAMES.vbproj.AssemblyReference.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\MARIO GAMES.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\COLLECTIBLE.Form1.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\COLLECTIBLE.Resources.resources
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\MARIO GAMES.vbproj.GenerateResource.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\MARIO GAMES.vbproj.CoreCompileInputs.cache
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\COLLECTIBLE.exe
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\COLLECTIBLE.xml
+C:\Users\rmmen232\Desktop\SY22-23\VB\COLLECTIBLE\COLLECTIBLE\obj\Debug\COLLECTIBLE.pdb

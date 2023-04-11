@@ -13,6 +13,25 @@
                 <MenuItem Command="ApplicationCommands.Cut"/>
                 <MenuItem Command="ApplicationCommands.Paste"/>
             </MenuItem>
+            <MenuItem Header="_File">
+                <MenuItem Header="New"></MenuItem>
+                <MenuItem Header="Open" Click="Open_CLick"></MenuItem>
+                <MenuItem Header="Save" Click="Save_Click"></MenuItem>
+                <MenuItem Header="Exit" Click="Exit_Click"></MenuItem>
+            </MenuItem>
+
+            <MenuItem Header="_View">
+                
+            </MenuItem>
+
+            <MenuItem Header="_Help">
+                
+            </MenuItem>
+
+            <MenuItem Header="_Format">
+
+            </MenuItem>
+
             <MenuItem Header="_Font">
                 <MenuItem Header="_Bold" IsCheckable="True"
               Checked="Bold_Checked"
@@ -28,7 +47,7 @@
             </MenuItem>
         </Menu>
         <TextBox Name="textBox1" TextWrapping="Wrap"
-         Margin="0,68,4,-64">
+         Margin="0,26,4,-22">
             The quick brown fox jumps over the lazy dog.
         </TextBox>
     </Grid>
